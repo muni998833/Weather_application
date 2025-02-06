@@ -7,5 +7,11 @@
          ✅ Changes based on weather conditions.
          
 **Technologies Used**
-          
+         ✅ Frontend Framework: React.js
+         ✅ Styling: CSS
+         ✅ OpenWeatherMap API (For weather data)
+         ✅ Axios (For API requests)
+
+**Usage:**
+          npm start #run the project
     
